@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Hi! I'm Akshay Sharma. I'm an experienced software engineer having knowledge in the field of backend and frontend.I've experience working with product based and service based enterprise.Below are my area of expertise.
+Hi! I'm Aftab Hussain. Software Engineer having 3.8 years of working experience in the information
+technology and services industry. Skilled in Python, Django, Flask, PostgreSQL, Javascript,
+JQuery, s3 bucket. and DRF.
+
+
+Eager to learn, ready for new challenge's and want to work on Angular and NodeJS.
 
 # Technologies
 

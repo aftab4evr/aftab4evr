@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Hi! I'm Aftab Hussain. Software Engineer having 3.8 years of working experience in the information
-technology and services industry. Skilled in Python, Django, Flask, PostgreSQL, Javascript,
-JQuery, s3 bucket. and DRF.
+Hi! I'm Aftab Hussain. Aftab is an efficient full stack developer with over 3.8+ years’ experience in Python. He has developed projects in multiple Python frameworks such as Django, Flask. He has developed web, mobile application backends of different complexity. He has extensive building, securing, and code techniques. He is an effective team player having successfully worked in several cross domain and cross geographies projects.
+
 
 
 Eager to learn, ready for new challenge's and want to work on Angular and NodeJS.
